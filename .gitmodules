@@ -5,3 +5,6 @@
 [submodule "ethiodate"]
 	path = ethiodate
 	url = https://github.com/guturago/ethiodate
+[submodule "nadaverse"]
+	path = nadaverse
+	url = https://github.com/guturago/nadaverse
