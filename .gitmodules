@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ctoclient"]
+	path = ctoclient
+	url = https://github.com/guturago/ctoclient
 [submodule "ethiodate"]
 	path = ethiodate
 	url = https://github.com/guturago/ethiodate
